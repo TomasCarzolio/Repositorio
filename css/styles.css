@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/home.jpg);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 75%;
+}
+i{
+    font-size: 40px;
+}
+
+.emily {
+    font-family:'Work Sans', sans-serif;
+    font-size: 230%;
+    font-stretch: extra-expanded;
+}
+
+.twist{
+    font-size: 430%;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgba(255, 255, 255, 0.418);
+}
+
+li{
+    font-family: 'Open Sans', sans-serif ;
+    color: rgba(247, 243, 243, 0.4);
+    text-decoration: none;
+}
+
